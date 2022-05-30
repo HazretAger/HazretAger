@@ -18,9 +18,7 @@
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
+- :telescope: I work like a freelancer on small projects.
 
 - :zap: In my free time, I do my pet projects or study new technology.
 
